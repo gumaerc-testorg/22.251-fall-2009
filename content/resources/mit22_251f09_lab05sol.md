@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource contains solutions for the problem statements related\
   \ to core\_pressure\_drop."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/4452c43d3f77bd4512a075bf28395dc0_MIT22_251F09_lab05sol.pdf
+file: /media/courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/4452c43d3f77bd4512a075bf28395dc0_MIT22_251F09_lab05sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: MIT22_251F09_lab05sol.pdf
 uid: 4452c43d-3f77-bd45-12a0-75bf28395dc0
