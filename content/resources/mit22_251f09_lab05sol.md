@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fb1c0188-a20b-5aac-8984-76d905202f57
 resourcetype: Document
 title: MIT22_251F09_lab05sol.pdf
 uid: 4452c43d-3f77-bd45-12a0-75bf28395dc0
