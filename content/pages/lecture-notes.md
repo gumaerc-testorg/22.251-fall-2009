@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the lectures topics for the course with lecture notes
+  from selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -57,7 +59,7 @@ Front & Design Center
 Core Design Criteria - Physics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_251f09_lec03))
+({{% resource_link 53af2d90-7dd6-ae74-b41c-c3f0db30dfe0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Core Design Criteria - Engineering
 In-Core Aspects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_251f09_lec06))
+({{% resource_link 3b8c9199-8224-6a4d-660f-93e6f01cda5a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ In-Core Aspects (cont.)
 Fuel Cycle & Operations Economics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_251f09_lec07))
+({{% resource_link e004470d-fb17-3672-89e3-533afc161707 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Fuel Cycle & Operations Economics
 Fuel Cycle & Operational Economics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_251f09_lec08))
+({{% resource_link 5d017e57-33c4-f150-e73c-a54f499b868f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +335,7 @@ Actinide Separation Technology
 Fuel Cycle Systems Simulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF – 1.3MB]({{< baseurl >}}/resources/mit22_251f09_lec22))
+({{% resource_link 047c8d24-81f3-265a-b07f-7efa7dad2b4a "PDF – 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
