@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section lists the required textbook, reading assignments, and additional
+  references for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7f5cf86f-6b38-3897-840f-9205ce9f5ba1
 ---

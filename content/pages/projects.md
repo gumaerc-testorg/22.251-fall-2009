@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of sample term project topics.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: fb0a24f6-fadb-e363-e2b7-493b512b6181
 ---
