@@ -6,6 +6,7 @@ file: /courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/76aa1
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_251F09_lab03sol.pdf
 uid: 76aa1f16-700e-8620-dc50-cc66335f5565
 ---
 This resource contains solutions for the problem statements related to isotope solubility.
-

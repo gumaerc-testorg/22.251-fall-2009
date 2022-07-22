@@ -6,6 +6,7 @@ file: /courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/d8532
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_251F09_lab04sol.pdf
 uid: d8532fd3-8a41-3ed0-0c2d-fe8665207405
 ---
 This resource contains solutions for the problem statements related to flux multiplication factor.
-

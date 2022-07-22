@@ -5,6 +5,7 @@ file: /courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/a0128
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT22_251F09_ORIGEN.pdf
 uid: a01281af-f8ac-c204-75ec-b35555f2ffbf
 ---
 This resource contains information related to and radioactive decay computer.
-

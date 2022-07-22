@@ -6,6 +6,7 @@ file: /courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/4452c
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_251F09_lab05sol.pdf
 uid: 4452c43d-3f77-bd45-12a0-75bf28395dc0
 ---
 This resource contains solutions for the problem statements related to core pressure drop.
-
