@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to origen and fortran.
 file: /courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/9ab7d4544493c595567f417154238fd2_MIT22_251F09_lab03ORIGEN.pdf
+file_size: 1586300
 file_type: application/pdf
 learning_resource_types:
 - Labs
