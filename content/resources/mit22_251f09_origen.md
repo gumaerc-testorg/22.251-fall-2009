@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to and radioactive decay computer.
-file: /courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/a01281aff8acc20475ecb35555f2ffbf_MIT22_251F09_ORIGEN.pdf
+file: /ol-ocw-studio-app/courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/a01281aff8acc20475ecb35555f2ffbf_MIT22_251F09_ORIGEN.pdf
 file_size: 391572
 file_type: application/pdf
 learning_resource_types:
