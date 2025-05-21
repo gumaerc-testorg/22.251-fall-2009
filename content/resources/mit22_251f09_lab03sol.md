@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   isotope solubility.
-file: /ol-ocw-studio-app/courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/76aa1f16700e8620dc50cc66335f5565_MIT22_251F09_lab03sol.pdf
+file: /courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/76aa1f16700e8620dc50cc66335f5565_MIT22_251F09_lab03sol.pdf
 file_size: 104901
 file_type: application/pdf
 learning_resource_types:
