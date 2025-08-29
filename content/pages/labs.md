@@ -3,7 +3,7 @@ content_type: page
 description: This section provides lab exercises, problem sets, solutions, and supporting
   files.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: fb1c0188-a20b-5aac-8984-76d905202f57
